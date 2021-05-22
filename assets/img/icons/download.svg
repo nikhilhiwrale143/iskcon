@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #ea742a;
+        stroke: #ea742a;
+      }
+    </style>
+  </defs>
+  <g id="Group_8980" data-name="Group 8980" transform="translate(-0.001 -0.332)">
+    <rect id="Rectangle_21" data-name="Rectangle 21" class="cls-1" width="20" height="20" transform="translate(0.001 0.332)"/>
+    <g id="download" transform="translate(2 2.331)">
+      <g id="Group_9004" data-name="Group 9004" transform="translate(5.334)">
+        <g id="Group_9003" data-name="Group 9003">
+          <path id="Path_1352" data-name="Path 1352" class="cls-2" d="M175.937,7.7a.667.667,0,0,0-.6-.369h-1.333V.667a.667.667,0,0,0-1.333,0V7.333H171.34a.666.666,0,0,0-.533,1.067l2,2.667c.009.011.022.015.031.026a.65.65,0,0,0,.154.129.685.685,0,0,0,.069.046.626.626,0,0,0,.559,0,.679.679,0,0,0,.068-.046.65.65,0,0,0,.154-.129c.009-.011.023-.015.031-.026l2-2.667A.666.666,0,0,0,175.937,7.7Z" transform="translate(-170.674)"/>
+        </g>
+      </g>
+      <g id="Group_9006" data-name="Group 9006" transform="translate(0 10)">
+        <g id="Group_9005" data-name="Group 9005">
+          <path id="Path_1353" data-name="Path 1353" class="cls-2" d="M15.333,320a.666.666,0,0,0-.667.667v2a2,2,0,0,1-2,2H3.333a2,2,0,0,1-2-2v-2a.667.667,0,0,0-1.333,0v2A3.337,3.337,0,0,0,3.333,326h9.333A3.337,3.337,0,0,0,16,322.667v-2A.666.666,0,0,0,15.333,320Z" transform="translate(0 -320)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
