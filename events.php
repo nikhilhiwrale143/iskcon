@@ -81,7 +81,52 @@
 						</div> <!-- row close  -->
 				  </div>
 				  <div class="tab-pane fade" id="past_events" role="tabpanel" aria-labelledby="past_events-tab">
-				  	past
+						<div class="row">
+ 
+
+							<!-- event2 start  -->
+							<div class="col-md-6 "> 
+								<div class="event_content">
+									<span> &nbsp;</span> <!-- this element is required even if it is blank  -->
+									<h1>Krishna Janmashtami, <div class="font-weight-normal">Monday,<br> 30 August</div></h1>
+									<p>Integer ac interdum lacus. Nunc porta semper lacus a varius. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer ac interdum lacus. Nunc porta semper lacus a varius. </p>
+									<p class="my-4 font-weight-bold "><a href="#" class="text-dark">Make a donation &nbsp;&nbsp;<img src="assets/img/icons/arrow-right.svg" alt="about" class=" img-fluid"></a>  </p>
+
+								</div>
+							</div>
+							<div class="col-md-6"> 
+								<div class="group_images_events">
+									 <div class="position-relative">
+									 	<img src="assets/img/events_banner.jpg" alt="about" class=" img-fluid"> 
+									 </div>
+								</div> 
+							</div>
+							<!-- event2 end  -->
+
+							<!-- event3 start  -->
+							<div class="col-md-6 "> 
+								<div class="event_content event_content_last">
+									<span> &nbsp;</span> <!-- this element is required even if it is blank  -->
+									<h1>Basant Panchami,<div class="font-weight-normal">Tuesday,<br>  16 February</div></h1>
+									<p>Integer ac interdum lacus. Nunc porta semper lacus a 
+										varius. Pellentesque habitant morbi tristique senectus et 
+										netus et malesuada fames ac turpis egestas. Integer ac 
+										interdum lacus. Nunc porta semper lacus a varius. </p>
+									<p class="my-4 font-weight-bold "><a href="#" class="text-dark">Make a donation &nbsp;&nbsp;<img src="assets/img/icons/arrow-right.svg" alt="about" class=" img-fluid"></a>  </p>
+
+								</div>
+							</div>
+							<div class="col-md-6"> 
+								<div class="group_images_events group_images_events_last">
+									 <div class="position-relative">
+									 	<img src="assets/img/events_banner.jpg" alt="about" class=" img-fluid"> 
+									 </div>
+								</div> 
+							</div>
+							<!-- event3 end  -->
+
+						</div> <!-- row close  -->
+
 				  </div> 
 				</div>
 
